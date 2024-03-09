@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Kminer](README.md)
+* [HOME](README.md)
 * [Programming Language](programming-language/README.md)
   * [Java](programming-language/java/README.md)
     * [New Feature](programming-language/java/new-feature.md)
